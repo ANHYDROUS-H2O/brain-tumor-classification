@@ -1,4 +1,4 @@
-# Novena By Themefisher
+# Novena
 
 Novena is a medical template specially designed for clinics, hospitals, doctor consultation centers, surgery centers, medical laboratories, pharmacies etc. We have carefully crafted each & every component to ensure that a clean and modern design is carried through.
 
